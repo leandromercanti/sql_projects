@@ -5,7 +5,7 @@ This Financial Data Analysis Repository serves as a hub for a wide range of proj
 
 Here you'll discover a collection of datasets and code that showcase the power of data analysis in the realm of finance. 
 
-As the repository grows, I will be employing a variety of tools, including SQL, R, Python, Power BI, and Tableau, to manipulate, visualize, and interpret financial data.
+As the repository grows, I will be employing a variety of tools, including MySQL, R, Python, Power BI, and Tableau, to manipulate, visualize, and interpret financial data.
 
 Whether you're interested in exploring cutting-edge data analysis techniques or seeking inspiration for your own financial analysis endeavors, this repository aims to offer innovative approaches to help you gain a deeper understanding of the intricate dynamics of the financial world.
 
